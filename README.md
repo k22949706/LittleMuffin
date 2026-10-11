@@ -21,7 +21,7 @@
 
 1. 到右邊的 [**Releases**](https://github.com/k22949706/LittleMuffin/releases) 下載最新版的 zip（約 700 MB，含音樂與音效）。
 2. 解壓縮到任意資料夾。路徑裡有中文也沒關係。
-3. 雙擊資料夾裡的 **`LittleMuffin.exe`**（或 `playtest\LittleMuffin.exe`）開始遊戲。
+3. 打開解壓出來的 `LittleMuffin` 資料夾，雙擊 **`LittleMuffin.exe`** 開始遊戲。
 
 不需要安裝任何東西。Windows 第一次執行時如果跳出「Windows 已保護您的電腦」，按「其他資訊 → 仍要執行」。
 
@@ -40,7 +40,7 @@
 
 - **原作**：J.K. Rowling《哈利波特》系列。人名、地名、咒語採用皇冠出版社繁體中文版譯名。
 - **引擎**：Ren'Py 8.5.3（MIT License 等，見 Ren'Py 的授權說明）。
-- **字型**（SIL Open Font License 1.1，授權檔隨遊戲附在 `playtest/game/fonts/`）：霞鶩文楷 TC（LXGW WenKai TC）、源流明體（GenRyuMin2 TW）、辰宇落雁體（ChenYuluoyan）、Cinzel Decorative（英文標題）。
+- **字型**（SIL Open Font License 1.1，授權檔隨遊戲附在 `game/fonts/`）：霞鶩文楷 TC（LXGW WenKai TC）、源流明體（GenRyuMin2 TW）、辰宇落雁體（ChenYuluoyan）、Cinzel Decorative（英文標題）。
 - **音樂**：OpenTracks（舊 DOVA-SYNDROME）、甘茶の音楽工房、PeriTune「Rosa_Nera」（CC BY 4.0）。
 - **音效**：効果音ラボ、ポケットサウンド（https://pocket-se.info/）。
 - 各曲的作者與曲名列在遊戲的「關於」畫面和片尾名單。
