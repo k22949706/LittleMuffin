@@ -1,16 +1,14 @@
-# Little Muffin（綴歌・瑪芬）
-
-日本語の説明は[こちら](#little-muffinドラコニアマフィン)。
+# Little Muffin | 綴歌・瑪芬
 
 全年齡戀愛視覺小說（galgame）。女主角是性轉版的跩哥・馬份「**綴歌・瑪芬**」，玩家扮演哈利，舞台是《哈利波特》原著第 6 學年的 IF 世界線。
 用 [Ren'Py](https://www.renpy.org/) 8.5.3 製作，1920×1080。支援繁體中文、日文（第一次啟動時選擇語言，之後可以在「設定 → 語言」切換）。
 
 **本作為非官方同人作品，與《哈利波特》原作者及版權方無關，僅供免費、非商業交流。**
 
-| 標題畫面 | 對話 | CG 鑑賞 |
-|---|---|---|
-| ![標題畫面](screenshots/title.jpg) | ![對話畫面](screenshots/dialogue.jpg) | ![CG 鑑賞](screenshots/cg_gallery.jpg) |
-| **隱形斗篷下的心跳** | **天文塔頂的魔杖** | **後日談・夏天的海** |
+| 標題畫面 | 人物對話 | CG鑑賞 |
+|:---:|:---:|:---:|
+| ![標題畫面](screenshots/title.jpg) | ![對話畫面](screenshots/dialogue.jpg) | ![CG鑑賞](screenshots/cg_gallery.jpg) |
+| **專用CG** | **劇情立繪** | **後日談（泳裝回）** |
 | ![隱形斗篷底下的劇情畫面](screenshots/cloak.jpg) | ![天文塔的劇情畫面](screenshots/tower.jpg) | ![後日談海邊的劇情畫面](screenshots/beach.jpg) |
 
 ## 遊戲內容
@@ -52,19 +50,17 @@
 
 ---
 
-# Little Muffin（ドラコニア・マフィン）
-
-繁体字中国語版の説明は[こちら](#little-muffin綴歌瑪芬)。
+# Little Muffin | ドラコニア・マフィン
 
 全年齢向けの恋愛ビジュアルノベル（ギャルゲー）です。ヒロインは、ドラコ・マルフォイの性別を反転させた女の子「**ドラコニア・マフィン**」。舞台は『ハリー・ポッター』原作の6年生の1年をもとにしたIFの世界線で、プレイヤーはハリーとなってその1年を過ごします。
 [Ren'Py](https://www.renpy.org/) 8.5.3 で制作、解像度は1920×1080。日本語・繁体字中国語に対応しています（初回起動時に言語を選べます。あとから「設定 → 言語」で切り替えることもできます）。
 
 **本作は非公式の二次創作作品であり、『ハリー・ポッター』の原作者および権利者とは一切関係ありません。無料・非営利で公開しています。**
 
-| タイトル画面 | 会話シーン | CG鑑賞 |
-|---|---|---|
-| ![タイトル画面](screenshots/ja/title.jpg) | ![会話シーン](screenshots/ja/dialogue.jpg) | ![CG鑑賞](screenshots/ja/cg_gallery.jpg) |
-| **透明マントの下の鼓動** | **天文台の塔で構えた杖** | **後日談・夏の海** |
+| タイトル画面 | キャラクター会話 | CG鑑賞 |
+|:---:|:---:|:---:|
+| ![タイトル画面](screenshots/ja/title.jpg) | ![キャラクター会話](screenshots/ja/dialogue.jpg) | ![CG鑑賞](screenshots/ja/cg_gallery.jpg) |
+| **専用CG** | **ストーリー立ち絵** | **後日談（水着回）** |
 | ![透明マントの中のシーン](screenshots/ja/cloak.jpg) | ![天文台の塔のシーン](screenshots/ja/tower.jpg) | ![後日談・海辺のシーン](screenshots/ja/beach.jpg) |
 
 ## ゲーム内容
