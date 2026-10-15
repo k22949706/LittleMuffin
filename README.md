@@ -21,11 +21,17 @@
 
 ## 安裝教學
 
-1. 到右邊的 [**Releases**](https://github.com/k22949706/LittleMuffin/releases) 下載最新版的 zip（約 230 MB，含音樂與音效）。
+1. 到右邊的 [**Releases**](https://github.com/k22949706/LittleMuffin/releases) 下載最新版的 zip（約 210 MB，含音樂與音效）。
 2. 解壓縮到任意資料夾。路徑裡有中文也沒關係。
 3. 打開解壓出來的 `LittleMuffin` 資料夾，雙擊 **`LittleMuffin.exe`** 開始遊戲。
 
 不需要安裝任何東西。Windows 第一次執行時如果跳出「Windows 已保護您的電腦」，按「其他資訊 → 仍要執行」。
+
+## 存檔與更新
+
+- 存檔、解鎖的 CG 和結局紀錄都存在電腦的使用者資料夾 `%APPDATA%\RenPy\mafen-1791521068`，**不在遊戲資料夾裡**。把這串路徑貼到檔案總管的網址列就能打開。
+- 更新到新版本時，可以直接**刪掉舊版的 `LittleMuffin` 資料夾**，再解壓縮新版執行，存檔和解鎖紀錄都會保留。
+- 想從頭開始的話，刪掉上面那個存檔資料夾。
 
 ## 製作
 
@@ -43,7 +49,7 @@
 - **原作**：J.K. Rowling《哈利波特》系列。人名、地名、咒語採用皇冠出版社繁體中文版譯名。
 - **引擎**：Ren'Py 8.5.3（MIT License 等，見 Ren'Py 的授權說明）。
 - **字型**（SIL Open Font License 1.1，授權檔隨遊戲附在 `game/fonts/`）：霞鶩文楷 TC（LXGW WenKai TC）、源流明體（GenRyuMin2 TW）、辰宇落雁體（ChenYuluoyan）、Cinzel Decorative（英文標題）；日文版另用 Klee One、源流明朝（GenRyuMin2 JP）、Yomogi。
-- **音樂**：OpenTracks（舊 DOVA-SYNDROME）、甘茶の音楽工房、PeriTune「Rosa_Nera」（CC BY 4.0）。
+- **音樂**：OpenTracks（舊 DOVA-SYNDROME）、甘茶の音楽工房、PeriTune（CC BY 4.0）。
 - **音效**：効果音ラボ、ポケットサウンド（https://pocket-se.info/）。
 - 各曲的作者與曲名列在遊戲的「關於」畫面和片尾名單。
 - 美術由 Codex GPT-6.1 Sol 以 AI 生成，再經審圖與後製。
@@ -73,11 +79,17 @@
 
 ## インストール方法
 
-1. 右側の [**Releases**](https://github.com/k22949706/LittleMuffin/releases) から最新版のzipをダウンロードします（約 230 MB、BGM・効果音を含みます）。
+1. 右側の [**Releases**](https://github.com/k22949706/LittleMuffin/releases) から最新版のzipをダウンロードします（約 210 MB、BGM・効果音を含みます）。
 2. 好きなフォルダに展開します。フォルダのパスに日本語が入っていても大丈夫です。
 3. 展開してできた `LittleMuffin` フォルダを開き、**`LittleMuffin.exe`** をダブルクリックするとゲームが始まります。
 
 インストール作業は必要ありません。初回起動時に「Windows によって PC が保護されました」と表示された場合は、「詳細情報 → 実行」を押してください。
+
+## セーブデータとアップデート
+
+- セーブデータ、解放した CG やエンディングの記録は、ゲームのフォルダではなく、PC のユーザーフォルダ `%APPDATA%\RenPy\mafen-1791521068` に保存されます。このパスをエクスプローラーのアドレスバーに貼り付けると開けます。
+- 新しいバージョンに更新するときは、**古い `LittleMuffin` フォルダを削除**してから新しいバージョンを展開して起動しても、セーブデータと記録はそのまま引き継がれます。
+- 最初からやり直したい場合は、上記のセーブデータのフォルダを削除してください。
 
 ## スタッフ
 
@@ -95,7 +107,7 @@
 - **原作**：J.K.ローリング『ハリー・ポッター』シリーズ。本作の人名・地名・呪文などの表記は、静山社版の日本語訳にならっています。
 - **エンジン**：Ren'Py 8.5.3（MIT License ほか。詳しくは Ren'Py のライセンス表記をご覧ください）。
 - **フォント**（SIL Open Font License 1.1。ライセンス文はゲームの `game/fonts/` に同梱）：日本語版は Klee One、源流明朝（GenRyuMin2 JP）、Yomogi。繁体字中国語版は霞鶩文楷 TC（LXGW WenKai TC）、源流明體（GenRyuMin2 TW）、辰宇落雁體（ChenYuluoyan）。英語タイトルは Cinzel Decorative。
-- **音楽**：OpenTracks（旧 DOVA-SYNDROME）、甘茶の音楽工房、PeriTune「Rosa_Nera」（CC BY 4.0）。
+- **音楽**：OpenTracks（旧 DOVA-SYNDROME）、甘茶の音楽工房、PeriTune（CC BY 4.0）。
 - **効果音**：効果音ラボ、ポケットサウンド（https://pocket-se.info/）。
 - 各曲の作者名と曲名は、ゲーム内の「クレジット」画面とエンディングのスタッフロールに記載しています。
 - グラフィックは Codex GPT-6.1 Sol による AI 生成です。生成した画像はチェックと加工を経て使用しています。
