@@ -22,15 +22,15 @@
 
 ## 網頁版
 
-- 用電腦或手機的瀏覽器打開 **https://little-muffin.app/** 就能玩，內容和下載版相同。手機請轉成橫向。
+- 用電腦或手機的瀏覽器打開 **https://little-muffin.app/** 就能玩，內容和桌面版相同。手機請轉成橫向。
 - 存檔存在這個瀏覽器裡。清除瀏覽器資料、換瀏覽器或換裝置時存檔不會跟著走，請用「設定 → 存檔 → 匯出存檔」備份成 .zip。
-- 匯出的 .zip 可以在其他裝置的網頁版或下載版用「匯入存檔」讀進去，兩邊的存檔互通。
+- 匯出的 .zip 可以在其他裝置的網頁版或桌面版用「匯入存檔」讀進去，兩邊的存檔互通。
 - 想在不同裝置之間接著玩，也可以在設定裡綁定 Google 帳號，把存檔備份到雲端（選用，不綁定也能玩）。個人資料的處理見網站上的隱私權聲明。
-- 網頁版不保證一直開放；關閉前會在網站上公告，請記得先匯出存檔，下載版還是能接著玩。
+- 網頁版不保證一直開放；關閉前會在網站上公告，請記得先匯出存檔，桌面版還是能接著玩。
 
 ## 桌面版
 
-1. 到右邊的 [**Releases**](https://github.com/k22949706/LittleMuffin/releases) 下載最新版的 zip（約 230 MB，含音樂與音效）。
+1. 到右邊的 [**Releases**](https://github.com/k22949706/LittleMuffin/releases) 下載最新版的 zip（約 240 MB，含音樂與音效）。
 2. 解壓縮到任意資料夾。路徑裡有中文也沒關係。
 3. 打開解壓出來的 `LittleMuffin` 資料夾，雙擊 **`LittleMuffin.exe`** 開始遊戲。
 
@@ -53,19 +53,17 @@
 | 美術繪製（立繪・CG・背景・Q 版・UI 素材） | Codex GPT-6.1 Sol |
 | 音樂・音效（選曲・編輯）、程式 | Claude Code Opus 5.5 |
 | 配音指導（演技指示・審聽） | ケニー、Claude Code Opus 5.5 |
-| 瑪芬 日文語音（AI 合成） | ElevenLabs Eleven v4（十一歲的回憶場景：Irohauta，ElevenLabs 聲音庫） |
+| 瑪芬 日文語音 | ElevenLabs Eleven v4 |
 | 測試 | ケニー、Claude Code Opus 5.5 |
 
 ## 出處
 
 - **原作**：J.K. Rowling《哈利波特》系列。人名、地名、咒語採用皇冠出版社繁體中文版譯名。
 - **引擎**：Ren'Py 8.5.3（MIT License 等，見 Ren'Py 的授權說明）。
-- **字型**（SIL Open Font License 1.1，授權檔隨遊戲附在 `game/fonts/`）：霞鶩文楷 TC（LXGW WenKai TC）、源流明體（GenRyuMin2 TW）、辰宇落雁體（ChenYuluoyan）、Cinzel Decorative（英文標題）；日文版另用 Klee One、源流明朝（GenRyuMin2 JP）、Yomogi。
+- **字型**（SIL Open Font License 1.1，授權檔隨遊戲附在 `game/fonts/`）：霞鶩文楷 TC（LXGW WenKai TC）、源流明體（GenRyuMin2 TW）、辰宇落雁體（ChenYuluoyan）、Cinzel Decorative（英文標題）、Zen Antique（片尾主題曲）；日文版另用 Klee One、源流明朝（GenRyuMin2 JP）、Yomogi。
 - **音樂**：OpenTracks（舊 DOVA-SYNDROME）、甘茶の音楽工房、PeriTune（CC BY 4.0）。
 - **音效**：効果音ラボ、ポケットサウンド（https://pocket-se.info/）。
 - 各曲的作者與曲名列在遊戲的「關於」畫面和片尾名單。
-- 美術由 Codex GPT-6.1 Sol 以 AI 生成，再經審圖與後製。
-- 瑪芬的日文語音是 ElevenLabs Eleven v4 生成的 AI 合成語音，不是真人配音；十一歲的回憶場景使用 ElevenLabs 聲音庫的 Irohauta。
 
 ---
 
@@ -93,15 +91,15 @@
 
 ## ブラウザ版
 
-- PC やスマートフォンのブラウザで **https://little-muffin.app/ja/** を開くと、そのまま遊べます。内容はダウンロード版と同じです。スマートフォンは横向きにしてください。
+- PC やスマートフォンのブラウザで **https://little-muffin.app/ja/** を開くと、そのまま遊べます。内容はデスクトップ版と同じです。スマートフォンは横向きにしてください。
 - セーブデータはそのブラウザの中に保存されます。ブラウザのデータを消したり、ブラウザや端末を変えたりすると引き継がれないので、「設定 → セーブデータ → エクスポート」で .zip にバックアップしてください。
-- 書き出した .zip は、ほかの端末のブラウザ版やダウンロード版で「インポート」から読み込めます。セーブデータは両方で共通です。
+- 書き出した .zip は、ほかの端末のブラウザ版やデスクトップ版で「インポート」から読み込めます。セーブデータは両方で共通です。
 - 別の端末で続きを遊びたい場合は、設定で Google アカウントと連携して、セーブデータをクラウドにバックアップすることもできます（任意です。連携しなくても遊べます）。個人情報の取り扱いはサイトのプライバシーポリシーをご覧ください。
-- ブラウザ版の公開を続けることは保証していません。終了する前にサイトでお知らせしますので、セーブデータを書き出しておいてください。ダウンロード版で続きを遊べます。
+- ブラウザ版の公開を続けることは保証していません。終了する前にサイトでお知らせしますので、セーブデータを書き出しておいてください。デスクトップ版で続きを遊べます。
 
 ## PC版
 
-1. 右側の [**Releases**](https://github.com/k22949706/LittleMuffin/releases) から最新版のzipをダウンロードします（約 230 MB、BGM・効果音を含みます）。
+1. 右側の [**Releases**](https://github.com/k22949706/LittleMuffin/releases) から最新版のzipをダウンロードします（約 240 MB、BGM・効果音を含みます）。
 2. 好きなフォルダに展開します。フォルダのパスに日本語が入っていても大丈夫です。
 3. 展開してできた `LittleMuffin` フォルダを開き、**`LittleMuffin.exe`** をダブルクリックするとゲームが始まります。
 
@@ -124,16 +122,14 @@
 | グラフィック（立ち絵・CG・背景・SD・UI素材） | Codex GPT-6.1 Sol |
 | 音楽・効果音（選曲・編集）、プログラム | Claude Code Opus 5.5 |
 | ボイスディレクション（演技指示・音声チェック） | ケニー、Claude Code Opus 5.5 |
-| マフィンの日本語ボイス（AI合成音声） | ElevenLabs Eleven v4（十一歳の回想シーン：Irohauta、ElevenLabsのボイスライブラリ） |
+| マフィンの日本語ボイス | ElevenLabs Eleven v4 |
 | テスト | ケニー、Claude Code Opus 5.5 |
 
 ## クレジット
 
 - **原作**：J.K.ローリング『ハリー・ポッター』シリーズ。本作の人名・地名・呪文などの表記は、静山社版の日本語訳にならっています。
 - **エンジン**：Ren'Py 8.5.3（MIT License ほか。詳しくは Ren'Py のライセンス表記をご覧ください）。
-- **フォント**（SIL Open Font License 1.1。ライセンス文はゲームの `game/fonts/` に同梱）：日本語版は Klee One、源流明朝（GenRyuMin2 JP）、Yomogi。繁体字中国語版は霞鶩文楷 TC（LXGW WenKai TC）、源流明體（GenRyuMin2 TW）、辰宇落雁體（ChenYuluoyan）。英語タイトルは Cinzel Decorative。
+- **フォント**（SIL Open Font License 1.1。ライセンス文はゲームの `game/fonts/` に同梱）：日本語版は Klee One、源流明朝（GenRyuMin2 JP）、Yomogi。繁体字中国語版は霞鶩文楷 TC（LXGW WenKai TC）、源流明體（GenRyuMin2 TW）、辰宇落雁體（ChenYuluoyan）。英語タイトルは Cinzel Decorative、エンディングの主題歌は Zen Antique。
 - **音楽**：OpenTracks（旧 DOVA-SYNDROME）、甘茶の音楽工房、PeriTune（CC BY 4.0）。
 - **効果音**：効果音ラボ、ポケットサウンド（https://pocket-se.info/）。
 - 各曲の作者名と曲名は、ゲーム内の「クレジット」画面とエンディングのスタッフロールに記載しています。
-- グラフィックは Codex GPT-6.1 Sol による AI 生成です。生成した画像はチェックと加工を経て使用しています。
-- マフィンの日本語ボイスは、ElevenLabs Eleven v4 で生成した AI 合成音声です。声優による収録ではありません。十一歳の回想シーンでは ElevenLabs のボイスライブラリの Irohauta を使用しています。
