@@ -56,12 +56,14 @@
 | 職務 | 負責人 |
 |---|---|
 | 原案・企劃、專案管理 | ケニー |
-| 劇本、世界觀・角色設定 | Claude Code Opus 5.5 |
-| 美術指導（提示詞設計・審圖）、影像後製、UI 設計 | Claude Code Opus 5.5 |
-| 美術繪製（立繪・CG・背景・Q 版・UI 素材） | Codex GPT-6.1 Sol |
-| 音樂・音效（選曲・編輯）、程式 | Claude Code Opus 5.5 |
+| 程式（遊戲系統・小遊戲・網頁版・自動測試） | ケニー、Claude Code Opus 5.5 |
+| 劇本、世界觀・角色設定 | ケニー、Claude Code Opus 5.5 |
+| 美術指導（提示詞設計・審圖）、人物設計、UI 設計 | ケニー、Claude Code Opus 5.5 |
+| 美術繪製（立繪・CG・背景・Q 版・UI 素材） | Codex GPT-6.1 Sol、Grok Imagine |
+| 音樂・音效（選曲・編輯） | ケニー、Claude Code Opus 5.5 |
+| 主題曲 | ケニー、Suno v6、GPT-6 Pro |
 | 配音指導（演技指示・審聽） | ケニー、Claude Code Opus 5.5 |
-| 瑪芬 日文語音 | ElevenLabs Eleven v4 |
+| 日語配音 | ElevenLabs Eleven v4 |
 | 測試 | ケニー、Claude Code Opus 5.5 |
 
 ## 出處
@@ -133,12 +135,14 @@
 | 担当 | 担当者 |
 |---|---|
 | 原案・企画、プロジェクト管理 | ケニー |
-| シナリオ、世界観・キャラクター設定 | Claude Code Opus 5.5 |
-| アートディレクション（プロンプト設計・画像チェック）、画像加工、UIデザイン | Claude Code Opus 5.5 |
-| グラフィック（立ち絵・CG・背景・SD・UI素材） | Codex GPT-6.1 Sol |
-| 音楽・効果音（選曲・編集）、プログラム | Claude Code Opus 5.5 |
+| プログラム（ゲームシステム・ミニゲーム・ブラウザ版・自動テスト） | ケニー、Claude Code Opus 5.5 |
+| シナリオ、世界観・キャラクター設定 | ケニー、Claude Code Opus 5.5 |
+| アートディレクション（プロンプト設計・画像チェック）、キャラクターデザイン、UIデザイン | ケニー、Claude Code Opus 5.5 |
+| グラフィック（立ち絵・CG・背景・SD・UI素材） | Codex GPT-6.1 Sol、Grok Imagine |
+| 音楽・効果音（選曲・編集） | ケニー、Claude Code Opus 5.5 |
+| 主題歌 | ケニー、Suno v6、GPT-6 Pro |
 | ボイスディレクション（演技指示・音声チェック） | ケニー、Claude Code Opus 5.5 |
-| マフィンの日本語ボイス | ElevenLabs Eleven v4 |
+| 日本語ボイス | ElevenLabs Eleven v4 |
 | テスト | ケニー、Claude Code Opus 5.5 |
 
 ## クレジット
