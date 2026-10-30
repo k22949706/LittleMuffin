@@ -1,0 +1,90 @@
+name: 不具合の報告（日本語）
+description: ゲームが止まった、表示がおかしい、文字が枠からはみ出す、音声が違う……などはこちらから報告してください。
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ご報告ありがとうございます！くわしく書いていただけるほど、早く直せます。
+        **タイトルと本文には、エンディングや重要なストーリーを書かないでください。** ストーリーにふれる必要があるときは「第何章のどの場面」とだけ書いてください。
+        感想・質問・要望は [Discussions](https://github.com/k22949706/LittleMuffin/discussions) へどうぞ。
+
+  - type: input
+    id: version
+    attributes:
+      label: ゲームのバージョン
+      description: タイトル画面の「ゲーム情報」→「クレジット」で確認できます。
+      placeholder: 例：0.2.13
+    validations:
+      required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: プレイした環境
+      options:
+        - ブラウザ版（PC）
+        - ブラウザ版（スマートフォン・タブレット）
+        - デスクトップ版（Windows）
+    validations:
+      required: true
+
+  - type: input
+    id: device
+    attributes:
+      label: 端末とブラウザ
+      description: ブラウザ版はブラウザ名を、デスクトップ版は Windows のバージョンだけで大丈夫です。
+      placeholder: 例：iPhone 15／Safari、Windows 11／Chrome
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: ゲームの言語
+      options:
+        - 日本語
+        - 繁體中文
+    validations:
+      required: true
+
+  - type: input
+    id: where
+    attributes:
+      label: 起きた場所
+      description: 第何章のどの場面、またはどの画面か（設定、おまけ、ミニゲームなど）。
+      placeholder: 例：第3章の図書館の場面／おまけ → CG鑑賞
+
+  - type: textarea
+    id: what
+    attributes:
+      label: 何が起きたか
+      description: 何をしたら、どうなったか。本来はどうなると思っていたか。
+      placeholder: |
+        1. 会話中に……を押した
+        2. 画面が……
+        本来は……になると思っていた
+    validations:
+      required: true
+
+  - type: dropdown
+    id: again
+    attributes:
+      label: 毎回起きますか
+      options:
+        - 毎回起きる
+        - ときどき起きる
+        - 一度だけ起きた
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: スクリーンショット・動画
+      description: あればここに画像をドラッグしてください。デスクトップ版は S キーでスクリーンショットを撮れます（保存先は「ピクチャ」の「Little Muffin」）。
+
+  - type: textarea
+    id: save
+    attributes:
+      label: セーブデータ（任意）
+      description: セーブやロード、進行に関係する問題のときは、「設定」→「セーブデータ」→「エクスポート」で書き出したファイルを zip にしてドラッグしてください。

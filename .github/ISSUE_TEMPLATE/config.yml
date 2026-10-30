@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 感想、提問、建議／感想・質問・要望
+    url: https://github.com/k22949706/LittleMuffin/discussions
+    about: 玩後感想、操作上的疑問、想看到的功能，歡迎到 Discussions 聊。／プレイの感想、操作の質問、ほしい機能などは Discussions へどうぞ。
+  - name: 開始玩（網頁版）／遊ぶ（ブラウザ版）
+    url: https://little-muffin.app
+    about: 不用安裝，打開瀏覽器就能玩。／インストール不要、ブラウザですぐに遊べます。

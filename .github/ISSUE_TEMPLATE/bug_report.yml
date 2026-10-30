@@ -1,0 +1,90 @@
+name: 回報 bug（中文）
+description: 遊戲出錯、畫面怪怪的、字跑出框外、聲音不對……都可以在這裡回報。
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        謝謝你幫忙回報！填得越詳細，越快能修好。
+        **標題和內容請不要寫到結局或關鍵劇情**，需要描述劇情時，請簡單寫「第幾章、哪一場」就好。
+        感想、提問、建議請到 [Discussions](https://github.com/k22949706/LittleMuffin/discussions)。
+
+  - type: input
+    id: version
+    attributes:
+      label: 遊戲版本
+      description: 標題畫面的「資訊」→「關於遊戲」可以看到版本號。
+      placeholder: 例：0.2.13
+    validations:
+      required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: 在哪裡玩的
+      options:
+        - 網頁版（電腦）
+        - 網頁版（手機、平板）
+        - 桌面版（Windows）
+    validations:
+      required: true
+
+  - type: input
+    id: device
+    attributes:
+      label: 裝置與瀏覽器
+      description: 網頁版請寫瀏覽器；桌面版寫 Windows 的版本就好。
+      placeholder: 例：iPhone 15／Safari、Windows 11／Chrome
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: 遊戲語言
+      options:
+        - 繁體中文
+        - 日本語
+    validations:
+      required: true
+
+  - type: input
+    id: where
+    attributes:
+      label: 發生在哪裡
+      description: 第幾章、哪一場，或是哪個畫面（例如設定、特典、小遊戲）。
+      placeholder: 例：第 3 章圖書館那一場／特典 → CG 鑑賞
+
+  - type: textarea
+    id: what
+    attributes:
+      label: 發生了什麼事
+      description: 你做了什麼、結果怎麼了，原本以為會怎樣。
+      placeholder: |
+        1. 在對話中按了……
+        2. 畫面……
+        原本以為會……
+    validations:
+      required: true
+
+  - type: dropdown
+    id: again
+    attributes:
+      label: 每次都會發生嗎
+      options:
+        - 每次都會
+        - 有時候會
+        - 只發生過一次
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: 截圖或錄影
+      description: 有的話直接把圖片拖進來。桌面版按 S 鍵可以截圖，存在「圖片」資料夾裡的「Little Muffin」。
+
+  - type: textarea
+    id: save
+    attributes:
+      label: 存檔（選填）
+      description: 問題跟存讀檔、進度有關的話，可以在「設定」→「存檔」→「匯出存檔」，把匯出的檔案壓成 zip 拖進來。
