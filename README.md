@@ -70,10 +70,10 @@
 
 - **原作**：J.K. Rowling《哈利波特》系列。人名、地名、咒語採用皇冠出版社繁體中文版譯名。
 - **引擎**：Ren'Py 8.5.3（MIT License 等，見 Ren'Py 的授權說明）。
-- **字型**（SIL Open Font License 1.1，授權檔隨遊戲附在 `game/fonts/`）：霞鶩文楷 TC（LXGW WenKai TC）、源流明體（GenRyuMin2 TW）、辰宇落雁體（ChenYuluoyan）、Cinzel Decorative（英文標題）、Zen Antique（片尾主題曲）；日文版另用 Klee One、源流明朝（GenRyuMin2 JP）、Yomogi。
+- **字型**（SIL Open Font License 1.1，授權檔隨遊戲附在 `game/fonts/`）：霞鶩文楷 TC（LXGW WenKai TC）、源流明體（GenRyuMin2 TW）、辰宇落雁體（ChenYuluoyan）、苦累蛙圓體（Kurewa Gothic，標題選單）、Cinzel Decorative（片尾英文）、Zen Antique（片尾主題曲）；日文版另用 Klee One、源流明朝（GenRyuMin2 JP）、Yomogi。
 - **音樂**：OpenTracks（舊 DOVA-SYNDROME）、甘茶の音楽工房、PeriTune（CC BY 4.0）。
 - **音效**：効果音ラボ、ポケットサウンド（https://pocket-se.info/）。
-- 各曲的作者與曲名列在遊戲的「關於」畫面和片尾名單。
+- 各曲的作者與曲名列在遊戲的「關於遊戲」畫面和片尾名單。
 
 ---
 
@@ -149,7 +149,7 @@
 
 - **原作**：J.K.ローリング『ハリー・ポッター』シリーズ。本作の人名・地名・呪文などの表記は、静山社版の日本語訳にならっています。
 - **エンジン**：Ren'Py 8.5.3（MIT License ほか。詳しくは Ren'Py のライセンス表記をご覧ください）。
-- **フォント**（SIL Open Font License 1.1。ライセンス文はゲームの `game/fonts/` に同梱）：日本語版は Klee One、源流明朝（GenRyuMin2 JP）、Yomogi。繁体字中国語版は霞鶩文楷 TC（LXGW WenKai TC）、源流明體（GenRyuMin2 TW）、辰宇落雁體（ChenYuluoyan）。英語タイトルは Cinzel Decorative、エンディングの主題歌は Zen Antique。
+- **フォント**（SIL Open Font License 1.1。ライセンス文はゲームの `game/fonts/` に同梱）：日本語版は Klee One、源流明朝（GenRyuMin2 JP）、Yomogi。繁体字中国語版は霞鶩文楷 TC（LXGW WenKai TC）、源流明體（GenRyuMin2 TW）、辰宇落雁體（ChenYuluoyan）。タイトル画面のメニューは Kurewa Gothic、エンディングの英文は Cinzel Decorative、主題歌は Zen Antique。
 - **音楽**：OpenTracks（旧 DOVA-SYNDROME）、甘茶の音楽工房、PeriTune（CC BY 4.0）。
 - **効果音**：効果音ラボ、ポケットサウンド（https://pocket-se.info/）。
 - 各曲の作者名と曲名は、ゲーム内の「クレジット」画面とエンディングのスタッフロールに記載しています。
