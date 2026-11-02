@@ -38,7 +38,7 @@
 
 ## 桌面版
 
-1. 到右邊的 [**Releases**](https://github.com/k22949706/LittleMuffin/releases) 下載最新版的 zip（約 250 MB，含音樂與音效）。
+1. 到右邊的 [**Releases**](https://github.com/k22949706/LittleMuffin/releases) 下載最新版的 zip（約 265 MB，含音樂與音效）。
 2. 解壓縮到任意資料夾。路徑裡有中文也沒關係。
 3. 打開解壓出來的 `LittleMuffin` 資料夾，雙擊 **`LittleMuffin.exe`** 開始遊戲。
 
@@ -64,6 +64,7 @@
 | 主題曲 | ケニー、Suno v6、GPT-6 Pro |
 | 配音指導（演技指示・審聽） | ケニー、Claude Code Opus 5.5 |
 | 日語配音 | ElevenLabs Eleven v4 |
+| 英語配音 | ElevenLabs Eleven v4 |
 | 測試 | ケニー、Claude Code Opus 5.5 |
 
 ## 出處
@@ -117,7 +118,7 @@
 
 ## PC版
 
-1. 右側の [**Releases**](https://github.com/k22949706/LittleMuffin/releases) から最新版のzipをダウンロードします（約 250 MB、BGM・効果音を含みます）。
+1. 右側の [**Releases**](https://github.com/k22949706/LittleMuffin/releases) から最新版のzipをダウンロードします（約 265 MB、BGM・効果音を含みます）。
 2. 好きなフォルダに展開します。フォルダのパスに日本語が入っていても大丈夫です。
 3. 展開してできた `LittleMuffin` フォルダを開き、**`LittleMuffin.exe`** をダブルクリックするとゲームが始まります。
 
@@ -143,6 +144,7 @@
 | 主題歌 | ケニー、Suno v6、GPT-6 Pro |
 | ボイスディレクション（演技指示・音声チェック） | ケニー、Claude Code Opus 5.5 |
 | 日本語ボイス | ElevenLabs Eleven v4 |
+| 英語ボイス | ElevenLabs Eleven v4 |
 | テスト | ケニー、Claude Code Opus 5.5 |
 
 ## クレジット
